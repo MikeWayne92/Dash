@@ -7,8 +7,8 @@ This interactive dashboard provides comprehensive insights into sales performanc
 - [View Interactive Dashboard](https://lookerstudio.google.com/s/kRYxYqLWBZ4)
 
 ## Dashboard Preview
-![Dashboard Overview](images/dashboard-overview.png)
-*Note: Add your dashboard screenshot to the images folder*
+![Dashboard Overview](images/Maindash.png)
+
 
 ## Key Features
 
